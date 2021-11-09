@@ -1,10 +1,11 @@
 ## 欢迎使用Pin CC讯息
 
 Pin CC讯息是一款安全沟通的工具软件
+
 现在你可以和你的企业领导，合作伙伴沟通你们的事情了！
 
-使用中遇到任何问题可及时向我们反馈
-联系我们：dcavlove@163.com
+使用中遇到任何问题可及时通过App内帮助反馈向我们提问
+
 
 ![Image](https://icon.wuruihong.com/files/202111/GViwCNSl/ios/AppIcon.appiconset/icon-76.png)
 
